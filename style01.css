@@ -1,0 +1,20 @@
+*
+{
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-1
+{
+    background-color: #333;
+    color: #fff;
+    border: 4px red solid;
+    border-radius: 4px;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 50px 0;
+    text-align: center;
+}
